@@ -1,5 +1,4 @@
-```md
-# 🪙 Full-Stack ERC-20 Token Faucet DApp
+#  Full-Stack ERC-20 Token Faucet DApp
 
 A complete **ERC-20 Token Faucet decentralized application** demonstrating end-to-end Web3 development.  
 This project showcases **secure smart contract design**, **wallet integration**, **on-chain rate limiting**, and **production-ready Docker deployment**.
@@ -124,7 +123,7 @@ window.__EVAL__ = {
 * **Frontend:** Docker + Nginx
 * **Health Check:** `/health` → HTTP 200
 
-**Contract Addresses**
+### Contract Addresses
 
 ```
 Token Contract:   0xE00C56969F49E2EA077E6ed9e4EbfBa2656160b6
@@ -138,8 +137,8 @@ Faucet Contract:  0x7da213aF0F48b233E24B48096a4C6c844aD61484
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AmruthaImmidisetti/erc20-faucet-dapp.git
-cd token-faucet-dapp
+git clone https://github.com/gollapallijayanthi/Full-Stack-ERC-20-Token-Faucet-DApp.git
+cd erc20-faucet-dapp
 ```
 
 ### 2️⃣ Configure environment variables
@@ -225,13 +224,4 @@ docker compose up --build
 
 ## ✅ Conclusion
 
-This project demonstrates practical **full-stack Web3 engineering skills**, including:
-
-* Smart contract security
-* Frontend blockchain integration
-* Dockerized deployment
-* Evaluation-friendly interfaces
-
-Suitable for **portfolio showcase**, **technical assessments**, and **learning reference**.
-
-````
+This project demonstrates practical **full-stack Web3 engineering skills**
